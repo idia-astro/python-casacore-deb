@@ -1,0 +1,8 @@
+python-casacore for Debian
+
+This package has been rebuilt against a custom packaged version of casacore 
+created for the CARTA project, which also includes the CASA image analysis 
+module. This package is not a dependency of CARTA, but is needed to resolve an 
+indirect dependency of the default Ubuntu package of casacore-data.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Mon, 08 Feb 2021 20:54:58 +0200
