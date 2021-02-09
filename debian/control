@@ -1,8 +1,7 @@
 Source: python-casacore
 Section: python
 Priority: optional
-Maintainer: Debian Astro Team <debian-astro-maintainers@lists.alioth.debian.org>
-Uploaders: Gijs Molenaar <gijs@pythonic.nl>, Ole Streicher <olebole@debian.org>
+Maintainer: Adrianna Pińska <adrianna.pinska@gmail.com>
 Build-Depends: casacore-dev (>= 2021.2.4),
                debhelper-compat (= 12),
                dh-python,
@@ -16,8 +15,8 @@ Build-Depends: casacore-dev (>= 2021.2.4),
                wcslib-dev
 Standards-Version: 4.5.0
 Homepage: https://github.com/casacore/python-casacore
-Vcs-Git: https://anonscm.debian.org/git/debian-astro/packages/python-casacore.git
-Vcs-Browser: https://anonscm.debian.org/cgit/debian-astro/packages/python-casacore.git
+Vcs-Git: https://github.com/idia-astro/python-casacore-deb.git
+Vcs-Browser: https://github.com/idia-astro/python-casacore-deb
 X-Python3-Version: >= 3.4
 
 Package: python3-casacore

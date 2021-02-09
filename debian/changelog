@@ -1,3 +1,9 @@
+python-casacore (2021.2.4-2) focal; urgency=medium
+
+  * Added correct maintainer information for this custom package.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 09 Feb 2021 16:47:23 +0200
+
 python-casacore (2021.2.4-1) focal; urgency=low
 
   * Initial repackaging.
