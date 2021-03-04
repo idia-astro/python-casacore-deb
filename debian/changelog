@@ -1,3 +1,9 @@
+python-casacore (2021.2.4-3~focal1) focal; urgency=medium
+
+  * Rebuild with updated carta-casacore and correct version number.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Thu, 04 Mar 2021 19:47:10 +0200
+
 python-casacore (2021.2.4-2) focal; urgency=medium
 
   * Added correct maintainer information for this custom package.
