@@ -1,3 +1,9 @@
+python-casacore (3.4.0+5.8.0+2021.2.4-1~focal1) focal; urgency=medium
+
+  * Rebuild for new PPA with revised version numbering.
+
+ -- Adrianna Pińska <adrianna.pinska@gmail.com>  Tue, 16 Mar 2021 11:17:55 +0200
+
 python-casacore (2021.2.4-3~focal1) focal; urgency=medium
 
   * Rebuild with updated carta-casacore and correct version number.
